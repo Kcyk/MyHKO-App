@@ -1,9 +1,8 @@
-
 /* Styling rules for our Web App */
 
 /* setting of the whole document */
 body {
-  background-color: rgb(229,204,255);
+  background-color: whitesmoke;
   font-family: Verdana, Geneva, sans-serif;
   margin: 0 1rem;
 }
@@ -123,7 +122,7 @@ label {
 
 /* forecast block */
 #forecast {
-  background-color: rgba(230, 230, 250, 0.507);
+  background-color: rgba(229, 204, 255, 0.3);
   padding: 0.25rem 0.5rem 0.5rem 1.5rem;
 }
 /* the div container for holding all forecasts */
